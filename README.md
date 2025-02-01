@@ -76,4 +76,4 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
